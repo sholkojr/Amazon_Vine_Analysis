@@ -23,7 +23,7 @@ Using PySpark in Goggle Colaboaratory the dataset was loaded and cleaned to extr
 ### Summary
 Although there appears to be about a 12% differential between paid and unpaid subscriber reviews, the relative sparse number of paid reviewers is a fraction of a percent in relation to the unpaid reviewers, it is difficult to draw any diffinitive conclusion from the data provided.
 
-A recomendation is to further the analysis would be to find certain reviewed items that have a significant amount of vine paid user reviews in relation to unpaid users so as to perform a more evenhanded analysis to see if there is enought to perform a bias analysis with some statistical rigour.
+A recomendation to further the analysis would be to find certain reviewed items that have a significant amount of vine paid user reviews in relation to unpaid users so as to perform a more evenhanded analysis to see if there is enought to perform a bias analysis with some statistical rigour.
 
 
 
